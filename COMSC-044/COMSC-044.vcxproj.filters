@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Labs">
+      <UniqueIdentifier>{7beb5e4e-3195-4894-8f98-dae80a3a65de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Homework">
+      <UniqueIdentifier>{e6388b97-028c-4695-8892-c291690c0458}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -21,7 +27,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="COMSC-044.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="lab02.cpp">
+      <Filter>Source Files\Labs</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
