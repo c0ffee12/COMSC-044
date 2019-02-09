@@ -26,11 +26,14 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="COMSC-044.cpp">
-      <Filter>Source Files\Homework</Filter>
-    </ClCompile>
     <ClCompile Include="lab02.cpp">
       <Filter>Source Files\Labs</Filter>
+    </ClCompile>
+    <ClCompile Include="Homework2b.cpp">
+      <Filter>Source Files\Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="homework2a.cpp">
+      <Filter>Source Files\Homework</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
