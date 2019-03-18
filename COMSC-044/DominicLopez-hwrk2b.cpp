@@ -1,3 +1,6 @@
+//Dominic Lopez
+//Hwrk-2b
+
 #include <iostream>
 
 using namespace std;
@@ -5,16 +8,15 @@ using namespace std;
 int main()
 {
 	
-	cout << "Dominic Lopez\n";
-	for (auto i = 0; i < 10; i++) {
-		cout
+	cout << "Dominic Lopez\n"
 			<< "      *      \n"
 			<< "     ***     \n"
 			<< "    *****    \n"
 			<< "   *******   \n"
 			<< "    *****    \n"
-			<< "     ***     \n";
-	}
-	cout << "      *      \n";
+			<< "     ***     \n"
+			<< "      *      \n";
+
+	cin.get();
 
 }

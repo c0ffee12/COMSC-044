@@ -20,7 +20,6 @@ int main()
 	double tax = costOfMeal * 0.09f;
 	double tip = costOfMeal * 0.2f;
 
-	cout << "Cost of meal : $" << costOfMeal << endl;
 	cout << "Cost of tax : $" << tax << endl;
 	cout << "Cost of tip : $" << tip << endl;
 	cout << "Total cost : $" << tax + tip + costOfMeal << endl;
