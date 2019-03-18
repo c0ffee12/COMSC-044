@@ -27,8 +27,8 @@ int main() {
 
 	cout << fixed << setprecision(3) << showpoint;
 	cout << "The mean of the " << numberOfJudges - 2 << " middle scores is: " << finalScore << ". \n";
-	cout << "The highest score was " << highest << ". \n";
-	cout << "The lowest score was " << lowest << ". \n";
+	cout << "The highest score was " << findHighest() << ". \n";
+	cout << "The lowest score was " << findLowest() << ". \n";
 
 
 

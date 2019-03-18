@@ -50,5 +50,8 @@
     <ClCompile Include="DominicLopez_Hwrk6A.cpp">
       <Filter>Source Files\Homework</Filter>
     </ClCompile>
+    <ClCompile Include="DominicLopez-Hwrk6b.cpp">
+      <Filter>Source Files\Homework</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
