@@ -53,5 +53,16 @@
     <ClCompile Include="DominicLopez-Hwrk6b.cpp">
       <Filter>Source Files\Homework</Filter>
     </ClCompile>
+    <ClCompile Include="DominicLopez-HwrkV.cpp">
+      <Filter>Source Files\Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="DominicLopez_HwrkV-b.cpp">
+      <Filter>Source Files\Homework</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\..\Downloads\Random.txt">
+      <Filter>Source Files\Homework</Filter>
+    </Text>
   </ItemGroup>
 </Project>
