@@ -59,6 +59,24 @@
     <ClCompile Include="DominicLopez_HwrkV-b.cpp">
       <Filter>Source Files\Homework</Filter>
     </ClCompile>
+    <ClCompile Include="DominicLopez-Hwrk07A.cpp">
+      <Filter>Source Files\Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="DominicLopez-Hwrk7B.cpp">
+      <Filter>Source Files\Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="DominicLopez-Hwrk09a.cpp">
+      <Filter>Source Files\Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="DominicLopez-hwrk9b.cpp">
+      <Filter>Source Files\Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="DominicLopez-Hwrk8A.cpp">
+      <Filter>Source Files\Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="DominicLopez-Hwrk8b.cpp">
+      <Filter>Source Files\Homework</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\..\Downloads\Random.txt">
